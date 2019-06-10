@@ -1,0 +1,8 @@
+---
+description: >-
+  Here, you will find a selection of cleaned and uncleaned data sets you can use
+  in your Text Analysis module exercises.
+---
+
+# Text Analysis
+
