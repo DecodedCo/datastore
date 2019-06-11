@@ -8,7 +8,7 @@
 * [Regression](regression.md)
 * [Classification](untitled.md)
 * [Neural Networks](neural-networks.md)
-* [Time-Series Analysis](time-series-analysis.md)
+* [Time Series Analysis](time-series-analysis.md)
 * [Text Analysis](text-analysis.md)
 * [Network Analysis](network-analysis.md)
 * [SQL](sql.md)

@@ -1,7 +1,7 @@
 ---
 description: >-
-  Here, you will find a selection of cleaned and uncleaned data sets you can use
-  in your Data module exercises.
+  Here, you will find a selection of data sets and data sources you can use for
+  your Data module practice.
 ---
 
 # Data
