@@ -15,6 +15,8 @@ description: >-
 
 The original data can be found on [**Kaggle**](https://www.kaggle.com/qks1lver/amex-nyse-nasdaq-stock-histories), and information on the individual .csv files for each stock can be found on [**GitHub**](https://github.com/qks1lver/redtide).
 
+[**Natural Gas Prices**](https://github.com/MaurissaCM/Decoded-DA-Datastore/raw/master/data/naturalgas_prices.zip) contains time series \(monthly and daily\) data of natural gas prices spanning from January 1997 to 2019. Data comes from the U.S. Energy Information Administration \(EIA\). Prices are measured in nominal dollars. The original data, and more information, can be found at [**Data Hub**](https://datahub.io/core/natural-gas). 
+
 ### DATA SOURCES
 
 \*\*\*\*[**The World Bank: Financial Sector Indicator**](https://data.worldbank.org/indicator) is an online data base where you can download information on multiple financial indicators \(information on indicators [here](http://datatopics.worldbank.org/g20fidata/)\) measured over the past few decades at global and individual country levels. You can choose which indicators, country\(ies\), and time spans you would like to use to make your own data set for personal use. 
