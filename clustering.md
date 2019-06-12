@@ -8,11 +8,12 @@ description: >-
 
 ### DATASETS
 
-- [**S&P 500 Stock Data**](https://github.com/MaurissaCM/Decoded-DA-Datastore/raw/master/data/sandp500_stocks.zip) is a file that 5 years of stock data taken between 2013-2018. It was originally sourced from [**Kaggle**](https://www.kaggle.com/camnugent/sandp500). More information about how the data was collected and how to retrieve updated data can be found [**here**](https://github.com/CNuge/kaggle-code/tree/master/stock_data).
-  - Data: Stock 
-  - Source:  
-  - Description:  
-  - blah
+-  
+  - Description: S&P stock data covering 5 years between 2013-2018.
+  - [_Source_]: [**Kaggle**](https://www.kaggle.com/camnugent/sandp500).
+  - [_Dimensions_]: 619k rows * 7 columns
+  - [_Extra info_]: more information about how the data was collected and how to retrieve updated data can be found [**here**](https://github.com/CNuge/kaggle-code/tree/master/stock_data).
+  - [_Download link_]: [**S&P 500 Stock Data**](https://github.com/MaurissaCM/Decoded-DA-Datastore/raw/master/data/sandp500_stocks.zip)
 
 [**AMEX, NYSE, and NASDAQ Stocks Histories**](https://github.com/MaurissaCM/Decoded-DA-Datastore/raw/master/data/stock-histories.zip) contains historical data of 8,032 stock tickers on AMEX, NYSE, and NASDAQ stocks from February to April, 2019. Information includes opening and closing prices, highest and lowest prices of the day, volume of the day, and adjusted closing price of the day. The .zip file contains the following: 
 
