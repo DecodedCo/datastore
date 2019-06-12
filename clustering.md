@@ -26,7 +26,7 @@ The original data can be found on [**Kaggle**](https://www.kaggle.com/qks1lver/a
 
 | Description | Source | Dimensions | Extra Information | Download link | File Contains | Data file format |
 | -- | -- | -- | -- | -- | -- | -- |
-| Data from AMEX, NYSE, and NASDAQ on 8032 stock tickers from February, 2019 to April, 2019 | Found on [**Kaggle**](https://www.kaggle.com/qks1lver/amex-nyse-nasdaq-stock-histories) | 330k rows * 8 columns | Acquired originally from Yahoo Finance's API and updated [**here**](https://github.com/qks1lver/redtide) | [**AMEX, NYSE, and NASDAQ Stocks Histories**](https://github.com/MaurissaCM/Decoded-DA-Datastore/raw/master/data/stock-histories.zip) | Dataset <br> asd| CSV |
+| Data from AMEX, NYSE, and NASDAQ on 8032 stock tickers from February, 2019 to April, 2019 | Found on [**Kaggle**](https://www.kaggle.com/qks1lver/amex-nyse-nasdaq-stock-histories) | 330k rows * 8 columns | Acquired originally from Yahoo Finance's API and updated [**here**](https://github.com/qks1lver/redtide) | [**AMEX, NYSE, and NASDAQ Stocks Histories**](https://github.com/MaurissaCM/Decoded-DA-Datastore/raw/master/data/stock-histories.zip) | Dataset <br> NYSE, AMEX and NASDAQ symbol data as .txt files | CSV |
 
 Sample brief: 
 
