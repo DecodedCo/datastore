@@ -6,7 +6,7 @@ description: >-
 
 # List of Datasets and Data Sources
 
-Here you will find a list of datasets you can download for your projects. Each one has listed below the types of modules they would be most useful for. If you want to more information on a certain dataset or data source, use the left-hand menu to go to the appropriate module, and select topic \(i.e., finance, insurance, retail, other\) - the corresponding datasets will be there. 
+Here you will find a list of datasets you can download for your projects. Each one has listed below the types of modules they would be most useful for. If you want to more information on a certain dataset or data source, use the left-hand menu to go to the appropriate module, and click on the article of choice \(i.e., finance, insurance, retail, other\) to see the corresponding datasets for that module.
 
 ### **DATASETS**
 
@@ -42,7 +42,12 @@ Here you will find a list of datasets you can download for your projects. Each o
 * Text Analysis
 * other...
 
+\*\*\*\*[**Tobacco Advertising Study \(2008 and 2011\)**](https://github.com/MaurissaCM/Decoded-DA-Datastore/raw/master/data/Tobacco_Advertising_Study__2008_2011.csv.zip)
 
+* Data
+* Clustering
+
+\*\*\*\*
 
 ### **DATA SOURCES**
 
