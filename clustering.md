@@ -8,9 +8,9 @@ description: >-
 
 ### DATASETS
 
-| Description | Source | Dimensions | Extra Information | Download link | File format |
-| -- | -- | -- | -- | -- | -- |
-| S&P stock data covering 5 years between 2013-2018 | Found on [**Kaggle**](https://www.kaggle.com/camnugent/sandp500) | 619k rows * 7 columns | Acquired originally from Investors Exchange API and updated [**here**](https://github.com/CNuge/kaggle-code/tree/master/stock_data) | [**S&P 500 Stock Data**](https://github.com/MaurissaCM/Decoded-DA-Datastore/raw/master/data/sandp500_stocks.zip) | .csv |
+| Description | Source | Dimensions | Extra Information | Download link | File Contains | Data file format |
+| -- | -- | -- | -- | -- | -- | -- |
+| S&P stock data covering 5 years between 2013-2018 | Found on [**Kaggle**](https://www.kaggle.com/camnugent/sandp500) | 619k rows * 7 columns | Acquired originally from Investors Exchange API and updated [**here**](https://github.com/CNuge/kaggle-code/tree/master/stock_data) | [**S&P 500 Stock Data**](https://github.com/MaurissaCM/Decoded-DA-Datastore/raw/master/data/sandp500_stocks.zip) | Dataset only | CSV |
 
 Sample brief: _Can we find interesting clusters of S&P stocks?_ _How do these clusters change over different time periods?_
 
