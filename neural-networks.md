@@ -1,12 +1,12 @@
 ---
 description: >-
-  Here, you will find a selection of data sets and data sources you can use for
+  Here, you will find a selection of datasets and data sources you can use for
   your Neural Network module practice.
 ---
 
 # Neural Networks
 
-### DATA SETS
+### DATASETS
 
 [**AMEX, NYSE, and NASDAQ Stocks Histories**](https://github.com/MaurissaCM/Decoded-DA-Datastore/raw/master/data/stock-histories.zip) contains historical data of 8,032 stock tickers on AMEX, NYSE, and NASDAQ stocks from February to April, 2019. Information includes opening and closing prices, highest and lowest prices of the day, volume of the day, and adjusted closing price of the day. The .zip file contains the following: 
 
