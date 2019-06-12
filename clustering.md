@@ -10,7 +10,7 @@ description: >-
 
 | Description | Source | Dimensions | Extra Information | Download link |
 | -- | -- | -- | -- | -- | 
-| w | w | w | w | w |
+| S&P stock data covering 5 years between 2013-2018 | [**Kaggle**](https://www.kaggle.com/camnugent/sandp500) | 619k rows * 7 columns | more information about how the data was collected and how to retrieve updated data can be found [**here**](https://github.com/CNuge/kaggle-code/tree/master/stock_data) | [**S&P 500 Stock Data**](https://github.com/MaurissaCM/Decoded-DA-Datastore/raw/master/data/sandp500_stocks.zip) |
 
 
 
