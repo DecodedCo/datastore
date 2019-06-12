@@ -6,7 +6,7 @@ description: >-
 
 # List of Datasets and Data Sources
 
-Here you will find a list of datasets you can download for your projects. Each one has listed below the types of modules they would be most useful for, 
+Here you will find a list of datasets you can download for your projects. Each one has listed below the types of modules they would be most useful for. If you want to more information on a certain dataset or data source, use the left-hand menu to go to the appropriate module, and select topic \(i.e., finance, insurance, retail, other\) - the corresponding datasets will be there. 
 
 ### **DATASETS**
 
