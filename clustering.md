@@ -6,7 +6,7 @@ description: >-
 
 # Clustering
 
-### DATASETS
+### Datasets
 
 | Description | Source | Dimensions | Extra Information | Download link | File Contains | Data file format |
 | -- | -- | -- | -- | -- | -- | -- |
