@@ -2,9 +2,9 @@
 
 * [Welcome](README.md)
 * [Data](data.md)
-* [Clustering](clustering.md)
 * [Association Rules](association-rules.md)
 * [Visualisation](visualisation.md)
+* [Clustering](clustering.md)
 * [Regression](regression.md)
 * [Classification](untitled.md)
 * [Neural Networks](neural-networks.md)
@@ -13,4 +13,10 @@
 * [Network Analysis](network-analysis.md)
 * [SQL](sql.md)
 * [Big Data](big-data.md)
+
+## Association Rules
+
+* [Finance](association-rules-1/finance.md)
+* [Retail](association-rules-1/retail.md)
+* [Insurance](association-rules-1/insurance.md)
 
