@@ -47,6 +47,13 @@ Here you will find a list of datasets you can download for your projects. Each o
 * Data
 * Clustering
 
+\*\*\*\*[**US Health Insurance Coverage, 2010 and 2015**](https://github.com/MaurissaCM/Decoded-DA-Datastore/raw/master/data/health-insurance.zip)\*\*\*\*
+
+* Data
+* Visualisation
+* Regression
+* Classification
+
 \*\*\*\*
 
 ### **DATA SOURCES**
