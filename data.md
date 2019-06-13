@@ -62,6 +62,10 @@ Here you will find a list of datasets you can download for your projects. Each o
 * Clustering
 * Classification
 
+\*\*\*\*[**Home Insurance policies \(2007-2012\) dataset**](https://github.com/MaurissaCM/Decoded-DA-Datastore/raw/master/data/home-insurance.zip) 
+
+* Time Series analysis
+
 ### **DATA SOURCES**
 
 [**The World Bank: Financial Sector Indicator**](https://data.worldbank.org/indicator)
