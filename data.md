@@ -54,7 +54,13 @@ Here you will find a list of datasets you can download for your projects. Each o
 * Regression
 * Classification
 
-\*\*\*\*
+\*\*\*\*[**Travel Insurance data from a Singapore-based company**](https://github.com/MaurissaCM/Decoded-DA-Datastore/raw/master/data/travel-insurance.zip)\*\*\*\*
+
+* Data
+* Visualisation
+* Association Rules
+* Clustering
+* Classification
 
 ### **DATA SOURCES**
 
