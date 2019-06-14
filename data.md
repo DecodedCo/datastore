@@ -46,7 +46,9 @@ Here you will find a list of datasets you can download for your online practice.
 \*\*\*\*[**Tobacco Advertising Study \(2008 and 2011\)**](https://github.com/MaurissaCM/Decoded-DA-Datastore/raw/master/data/Tobacco_Advertising_Study__2008_2011.csv.zip)
 
 * Data
+* Association Rules
 * Clustering
+* Classification
 
 \*\*\*\*[**US Health Insurance Coverage, 2010 and 2015**](https://github.com/MaurissaCM/Decoded-DA-Datastore/raw/master/data/health-insurance.zip)\*\*\*\*
 
@@ -83,6 +85,14 @@ Here you will find a list of datasets you can download for your online practice.
 * Regression
 * Time Series
 
+[**Game of Thrones \(battles\)**](https://github.com/MaurissaCM/Decoded-DA-Datastore/raw/master/data/game%20of%20thrones%20battles.csv.zip)
+
+* Data
+* Association Rules
+* Clustering 
+* Classification
+* Text Analysis
+
 ### **DATA SOURCES** 
 
 [**The World Bank: Financial Sector Indicator**](https://data.worldbank.org/indicator)
@@ -93,6 +103,7 @@ Here you will find a list of datasets you can download for your online practice.
 * Regression
 * Classification
 * Time Series
+* SQL
 * Big Data
 
 [**Organisation for Economic and Co-operation and Development \(Finance\)**](https://stats.oecd.org/)
@@ -103,6 +114,7 @@ Here you will find a list of datasets you can download for your online practice.
 * Regression
 * Classification
 * Time Series
+* SQL
 * Big Data
 
 
