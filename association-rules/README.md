@@ -6,11 +6,3 @@ description: >-
 
 # Association Rules
 
-### 
-
-\*\*\*\*
-
-
-
-
-
