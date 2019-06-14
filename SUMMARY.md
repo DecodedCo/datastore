@@ -1,7 +1,8 @@
 # Table of contents
 
 * [Welcome](README.md)
-* [List of Datasets and Data Sources](data.md)
+* [List of Datasets](data.md)
+* [List of Data Sources](list-of-data-sources.md)
 * [Data](data-1/README.md)
   * [Data: Finance](data-1/data-finance.md)
   * [Data: Insurance](data-1/data-insurance.md)

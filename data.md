@@ -1,14 +1,12 @@
 ---
 description: >-
-  Below is a complete list of datasets you can use to practice different
-  analytical methods throughout the academy.
+  Below is a list of datasets you can use to practice different analytical
+  methods throughout the academy.
 ---
 
-# List of Datasets and Data Sources
+# List of Datasets
 
-Here you will find a list of datasets you can download for your online practice. Below, each dataset lists the modules for which they are most appropriate. If you want to more information on a certain dataset or data source, use the left-hand menu to go to the  module of choice, and click on the topic \(i.e., finance, insurance, retail, other\) to see the corresponding datasets for that module.
-
-### **DATASETS**
+Here you will find a list of datasets you can download for your online practice. Below, each dataset lists the modules for which they are most appropriate. If you want to more information on a certain dataset, use the left-hand menu to go to the  module of choice, and click on the sub-topic \(i.e., finance, insurance, retail, other\) to see the  corresponding datasets.
 
 [**S&P 500 Stock Data**](https://github.com/MaurissaCM/Decoded-DA-Datastore/raw/master/data/sandp500_stocks.zip) 
 
@@ -99,30 +97,6 @@ Here you will find a list of datasets you can download for your online practice.
 * Clustering 
 * Classification
 * Text Analysis
-
-### **DATA SOURCES** 
-
-[**The World Bank: Financial Sector Indicator**](https://data.worldbank.org/indicator)
-
-* Association Rules
-* Clustering
-* Visualisation
-* Regression
-* Classification
-* Time Series
-* SQL
-* Big Data
-
-[**Organisation for Economic and Co-operation and Development \(Finance\)**](https://stats.oecd.org/)
-
-* Association Rules
-* Clustering
-* Visualisation
-* Regression
-* Classification
-* Time Series
-* SQL
-* Big Data
 
 
 
