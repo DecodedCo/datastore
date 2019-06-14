@@ -1,6 +1,6 @@
 ---
 description: >-
-  Here you will find a selection of datasets relating to other industries to
+  Here you will find a selection of datasets relating to other topics to
   practice Visualisation
 ---
 

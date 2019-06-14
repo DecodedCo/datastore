@@ -69,6 +69,13 @@ Here you will find a list of datasets you can download for your online practice.
 
 * Time Series 
 
+[**New York State Unemployment Insurance Data \(2001-present\)**](https://github.com/MaurissaCM/Decoded-DA-Datastore/raw/master/data/unemployment-insurance-beneficiaries-and-benefit-amounts-paid-beginning-2001.csv.zip)
+
+* Data
+* Clustering
+* Visualisation
+* Time Series 
+
 \*\*\*\*[**North Korea Missile Tests Database**](https://github.com/MaurissaCM/Decoded-DA-Datastore/raw/master/data/North%20Korea%20Missile%20Tests.zip)\*\*\*\*
 
 * Data

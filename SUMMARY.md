@@ -11,7 +11,7 @@
   * [Association Rules: Finance](association-rules/finance.md)
   * [Association Rules: Insurance](association-rules/insurance.md)
   * [Association Rules: Retail](association-rules/retail.md)
-  * [Association Rules: Other Industries](association-rules/association-rules-other-industries.md)
+  * [Association Rules: Other](association-rules/association-rules-other-industries.md)
 * [Clustering](clustering/README.md)
   * [Clustering: Finance](clustering/clustering-finance.md)
   * [Clustering: Insurance](clustering/clustering-insurance.md)
@@ -41,7 +41,7 @@
   * [Text Analysis: Finance](text-analysis/text-analysis-finance.md)
   * [Text Analysis: Insurance](text-analysis/text-analysis-insurance.md)
   * [Text Analysis: Retail](text-analysis/text-analysis-retail.md)
-  * [Text Analysis: Other Industries](text-analysis/text-analysis-other-industries.md)
+  * [Text Analysis: Other](text-analysis/text-analysis-other-industries.md)
 * [SQL](sql.md)
 * [Big Data](big-data.md)
 
