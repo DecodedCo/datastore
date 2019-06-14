@@ -1,3 +1,9 @@
+---
+description: >-
+  Here you will find a selection of finance-based datasets to practice Text
+  Analysis.
+---
+
 # Text Analysis: Finance
 
 \*\*\*\*[**Financial Tweets of Publicly Traded Companies**](https://github.com/MaurissaCM/Decoded-DA-Datastore/raw/master/data/financial-tweets.zip) contains information on 28k+ tweets about publicly traded companies and crypto-currencies that are tagged with the company they are tweeting about. The folder contains the following files: 

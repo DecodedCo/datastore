@@ -6,19 +6,23 @@ description: >-
 
 # List of Datasets and Data Sources
 
-Here you will find a list of datasets you can download for your projects. Each one has listed below the types of modules they would be most useful for. If you want to more information on a certain dataset or data source, use the left-hand menu to go to the appropriate module, and click on the article of choice \(i.e., finance, insurance, retail, other\) to see the corresponding datasets for that module.
+Here you will find a list of datasets you can download for your online practice. Below, each dataset lists the modules for which they are most appropriate. If you want to more information on a certain dataset or data source, use the left-hand menu to go to the  module of choice, and click on the topic \(i.e., finance, insurance, retail, other\) to see the corresponding datasets for that module.
 
 ### **DATASETS**
 
 [**S&P 500 Stock Data**](https://github.com/MaurissaCM/Decoded-DA-Datastore/raw/master/data/sandp500_stocks.zip) 
 
-* Module 1
-* Module 2...
+* Association Rules
+* Visualisation
+* Regression
+* Time Series
 
 [**AMEX, NYSE, and NASDAQ Stocks Histories**](https://github.com/MaurissaCM/Decoded-DA-Datastore/raw/master/data/stock-histories.zip)
 
-* Module 1
-* Module 2...
+* Association Rules
+* Visualisation
+* Regression
+* Time Series
 
 [**Natural Gas Prices**](https://github.com/MaurissaCM/Decoded-DA-Datastore/raw/master/data/naturalgas_prices.zip)
 
@@ -29,9 +33,7 @@ Here you will find a list of datasets you can download for your projects. Each o
 
 * Text Analysis
 * Classification
-* Clustering?
-* Association Rules?
-* Regression?
+* Association Rules
 
 [**President Trump's 56 speeches**](https://github.com/MaurissaCM/Decoded-DA-Datastore/raw/master/data/trump_full_speech.txt.zip) 
 
@@ -40,8 +42,7 @@ Here you will find a list of datasets you can download for your projects. Each o
 [**Financial Tweets of Publicly Traded Companies**](https://github.com/MaurissaCM/Decoded-DA-Datastore/raw/master/data/financial-tweets.zip) 
 
 * Text Analysis
-* other...
-
+* 
 \*\*\*\*[**Tobacco Advertising Study \(2008 and 2011\)**](https://github.com/MaurissaCM/Decoded-DA-Datastore/raw/master/data/Tobacco_Advertising_Study__2008_2011.csv.zip)
 
 * Data
@@ -64,25 +65,40 @@ Here you will find a list of datasets you can download for your projects. Each o
 
 \*\*\*\*[**Home Insurance policies \(2007-2012\) dataset**](https://github.com/MaurissaCM/Decoded-DA-Datastore/raw/master/data/home-insurance.zip) 
 
-* Time Series analysis
+* Time Series 
 
-### **DATA SOURCES**
+\*\*\*\*[**North Korea Missile Tests Database**](https://github.com/MaurissaCM/Decoded-DA-Datastore/raw/master/data/North%20Korea%20Missile%20Tests.zip)\*\*\*\*
+
+* Data
+* Association Rules
+* Clustering
+* Visualisation
+* Regression
+* Classification
+
+### \*\*\*\*
+
+### **DATA SOURCES** 
 
 [**The World Bank: Financial Sector Indicator**](https://data.worldbank.org/indicator)
 
-* Text Analysis
+* Association Rules
+* Clustering
+* Visualisation
+* Regression
 * Classification
-* Clustering?
-* Association Rules?
-* Regression?
+* Time Series
+* Big Data
 
 [**Organisation for Economic and Co-operation and Development \(Finance\)**](https://stats.oecd.org/)
 
-* Text Analysis
+* Association Rules
+* Clustering
+* Visualisation
+* Regression
 * Classification
-* Clustering?
-* Association Rules?
-* Regression?
+* Time Series
+* Big Data
 
 
 

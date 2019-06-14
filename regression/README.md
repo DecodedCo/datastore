@@ -1,7 +1,7 @@
 ---
 description: >-
-  Here, you will find a selection of datasets and data sources you can use for
-  your Regression module practice.
+  Here, you will find a selection of datasets you can use to practice the
+  Regression module.
 ---
 
 # Regression

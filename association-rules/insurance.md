@@ -1,7 +1,7 @@
 ---
 description: >-
-  Here, you will find a selection of insurance-based datasets for Association
-  Rules practice.
+  Here you will find a selection of insurance-based datasets to practice
+  Association Rules.
 ---
 
 # Association Rules: Insurance
