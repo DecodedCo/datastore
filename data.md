@@ -42,7 +42,7 @@ Here you will find a list of datasets you can download for your online practice.
 [**Financial Tweets of Publicly Traded Companies**](https://github.com/MaurissaCM/Decoded-DA-Datastore/raw/master/data/financial-tweets.zip) 
 
 * Text Analysis
-* 
+
 \*\*\*\*[**Tobacco Advertising Study \(2008 and 2011\)**](https://github.com/MaurissaCM/Decoded-DA-Datastore/raw/master/data/Tobacco_Advertising_Study__2008_2011.csv.zip)
 
 * Data
@@ -76,7 +76,12 @@ Here you will find a list of datasets you can download for your online practice.
 * Regression
 * Classification
 
-### \*\*\*\*
+[**Retail Sales Index \(internet sales\)**](https://github.com/MaurissaCM/Decoded-DA-Datastore/raw/master/data/ONS%20retail%20internet%20sales.zip)
+
+* Data
+* Visualisation
+* Regression
+* Time Series
 
 ### **DATA SOURCES** 
 
