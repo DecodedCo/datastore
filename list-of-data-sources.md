@@ -8,7 +8,7 @@ description: >-
 
 Here you will find a list of data sources you can download from the website linked to the source. In these sources, you can choose which variable\(s\) you would like to use for analysis, and customise your own dataset to practice with! All the sources have downloadable data appropriate for most, if not all, the modules listed in the datastore. 
 
-[**The World Bank: Financial Sector Indicator**](https://data.worldbank.org/indicator)
+[**A Millennium of Macroeconomic Data for the UK \(1086-2016\)**](https://www.kaggle.com/bank-of-england/a-millennium-of-macroeconomic-data) 
 
 * Association Rules
 * Clustering
@@ -30,7 +30,7 @@ Here you will find a list of data sources you can download from the website link
 * SQL
 * Big Data
 
-[**A Millennium of Macroeconomic Data for the UK \(1086-2016\)**](https://www.kaggle.com/bank-of-england/a-millennium-of-macroeconomic-data) 
+[**The World Bank: Financial Sector Indicator**](https://data.worldbank.org/indicator)
 
 * Association Rules
 * Clustering
@@ -40,6 +40,4 @@ Here you will find a list of data sources you can download from the website link
 * Time Series
 * SQL
 * Big Data
-
-
 
