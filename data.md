@@ -21,6 +21,11 @@ Here you will find a list of datasets you can download for your online practice.
 * Clustering
 * Classification
 
+**The Enron email dataset \(subsample\)**
+
+* Text Analysis
+* Big Data
+
 [**Financial Tweets of Publicly Traded Companies**](https://github.com/MaurissaCM/Decoded-DA-Datastore/raw/master/data/financial-tweets.zip) 
 
 * Text Analysis
