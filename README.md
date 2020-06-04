@@ -4,5 +4,5 @@ In this GitBook, you will find a selection of datasets and data sources that can
 
 The first page contains a list of all the datasets and data sources throughout the Gitbook, and details about which modules for which they are appropriate.
 
-Should you want more detail about specific datasets, they are grouped by module, and separated into financial, insurance, and retail types, based upon your interest. 
+Should you want more detail about specific datasets, they are grouped by module, and separated into financial, insurance, and retail types, based upon your interests. 
 
